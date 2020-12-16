@@ -53,4 +53,4 @@ class Class1
 	}
 ```
 ## Результати CPU Usage
-![alt text] (https://github.com/natasha1237/lab6/blob/main/image_2020-12-15_21-46-02.png)
+![alt text](https://github.com/natasha1237/lab6/blob/main/image_2020-12-15_21-46-02.png)
